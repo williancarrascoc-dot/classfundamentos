@@ -1,0 +1,89 @@
+-- REPORTE GENERAL DE VENTAS --
+Total de registros: 150
+
+MONTO TOTAL VENDIDO:
+S/ 3770676.10
+
+--------------------
+VENDEDOR CON MAYOR RECAUDACION:
+ID vendedor: 4
+Total vendido: S/ 648799.80
+
+--------------------
+PRODUCTO MAS VENDIDO:
+ID producto: 20
+TOTAL UNIDADES: 1346
+
+--------------------
+VENTAS SOSPECHOSAS (CANTIDAD>100)
+
+ID venta: 3 | vendedor: 1 | producto: 7 | cantidad: 111
+ID venta: 4 | vendedor: 1 | producto: 5 | cantidad: 170
+ID venta: 8 | vendedor: 7 | producto: 11 | cantidad: 185
+ID venta: 11 | vendedor: 1 | producto: 13 | cantidad: 159
+ID venta: 12 | vendedor: 9 | producto: 20 | cantidad: 113
+ID venta: 14 | vendedor: 3 | producto: 19 | cantidad: 178
+ID venta: 15 | vendedor: 6 | producto: 7 | cantidad: 192
+ID venta: 16 | vendedor: 9 | producto: 8 | cantidad: 137
+ID venta: 19 | vendedor: 1 | producto: 2 | cantidad: 196
+ID venta: 21 | vendedor: 10 | producto: 5 | cantidad: 196
+ID venta: 22 | vendedor: 3 | producto: 6 | cantidad: 124
+ID venta: 23 | vendedor: 4 | producto: 7 | cantidad: 161
+ID venta: 24 | vendedor: 4 | producto: 18 | cantidad: 109
+ID venta: 35 | vendedor: 2 | producto: 17 | cantidad: 165
+ID venta: 36 | vendedor: 5 | producto: 5 | cantidad: 149
+ID venta: 37 | vendedor: 3 | producto: 17 | cantidad: 149
+ID venta: 45 | vendedor: 9 | producto: 4 | cantidad: 147
+ID venta: 47 | vendedor: 4 | producto: 1 | cantidad: 153
+ID venta: 48 | vendedor: 10 | producto: 5 | cantidad: 191
+ID venta: 49 | vendedor: 4 | producto: 5 | cantidad: 155
+ID venta: 50 | vendedor: 10 | producto: 12 | cantidad: 189
+ID venta: 55 | vendedor: 4 | producto: 18 | cantidad: 189
+ID venta: 56 | vendedor: 4 | producto: 19 | cantidad: 200
+ID venta: 59 | vendedor: 2 | producto: 2 | cantidad: 144
+ID venta: 61 | vendedor: 3 | producto: 13 | cantidad: 170
+ID venta: 62 | vendedor: 6 | producto: 15 | cantidad: 131
+ID venta: 63 | vendedor: 4 | producto: 20 | cantidad: 117
+ID venta: 64 | vendedor: 8 | producto: 8 | cantidad: 165
+ID venta: 65 | vendedor: 3 | producto: 5 | cantidad: 197
+ID venta: 69 | vendedor: 3 | producto: 11 | cantidad: 190
+ID venta: 70 | vendedor: 7 | producto: 1 | cantidad: 123
+ID venta: 73 | vendedor: 7 | producto: 9 | cantidad: 134
+ID venta: 74 | vendedor: 2 | producto: 11 | cantidad: 146
+ID venta: 75 | vendedor: 2 | producto: 17 | cantidad: 109
+ID venta: 77 | vendedor: 4 | producto: 20 | cantidad: 101
+ID venta: 82 | vendedor: 10 | producto: 7 | cantidad: 172
+ID venta: 85 | vendedor: 4 | producto: 3 | cantidad: 107
+ID venta: 89 | vendedor: 10 | producto: 1 | cantidad: 168
+ID venta: 91 | vendedor: 3 | producto: 20 | cantidad: 112
+ID venta: 92 | vendedor: 4 | producto: 14 | cantidad: 195
+ID venta: 93 | vendedor: 8 | producto: 13 | cantidad: 101
+ID venta: 94 | vendedor: 2 | producto: 6 | cantidad: 150
+ID venta: 96 | vendedor: 10 | producto: 8 | cantidad: 113
+ID venta: 98 | vendedor: 3 | producto: 18 | cantidad: 196
+ID venta: 102 | vendedor: 9 | producto: 19 | cantidad: 109
+ID venta: 103 | vendedor: 6 | producto: 18 | cantidad: 143
+ID venta: 104 | vendedor: 5 | producto: 8 | cantidad: 176
+ID venta: 105 | vendedor: 9 | producto: 19 | cantidad: 197
+ID venta: 106 | vendedor: 7 | producto: 4 | cantidad: 157
+ID venta: 107 | vendedor: 4 | producto: 20 | cantidad: 198
+ID venta: 110 | vendedor: 1 | producto: 16 | cantidad: 192
+ID venta: 113 | vendedor: 7 | producto: 20 | cantidad: 196
+ID venta: 114 | vendedor: 4 | producto: 13 | cantidad: 150
+ID venta: 115 | vendedor: 2 | producto: 19 | cantidad: 158
+ID venta: 116 | vendedor: 8 | producto: 20 | cantidad: 184
+ID venta: 119 | vendedor: 5 | producto: 11 | cantidad: 177
+ID venta: 122 | vendedor: 2 | producto: 10 | cantidad: 131
+ID venta: 123 | vendedor: 8 | producto: 8 | cantidad: 142
+ID venta: 125 | vendedor: 6 | producto: 11 | cantidad: 121
+ID venta: 126 | vendedor: 10 | producto: 9 | cantidad: 179
+ID venta: 127 | vendedor: 10 | producto: 16 | cantidad: 188
+ID venta: 128 | vendedor: 5 | producto: 20 | cantidad: 124
+ID venta: 132 | vendedor: 4 | producto: 18 | cantidad: 108
+ID venta: 135 | vendedor: 7 | producto: 15 | cantidad: 159
+ID venta: 137 | vendedor: 7 | producto: 7 | cantidad: 127
+ID venta: 141 | vendedor: 1 | producto: 18 | cantidad: 150
+ID venta: 142 | vendedor: 8 | producto: 17 | cantidad: 172
+ID venta: 146 | vendedor: 8 | producto: 2 | cantidad: 167
+ID venta: 148 | vendedor: 4 | producto: 4 | cantidad: 199
+ID venta: 150 | vendedor: 9 | producto: 11 | cantidad: 106
